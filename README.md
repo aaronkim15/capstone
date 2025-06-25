@@ -1,2 +1,4 @@
 # capstone
-a group of capstone projects
+a group of capstone projects to help me progress in my coding journey.
+
+
